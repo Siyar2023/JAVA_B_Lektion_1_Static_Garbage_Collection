@@ -1,2 +1,7 @@
 - Garbage Colellection kommer inte på Tentan JAVA B.
 
+Garbage collection:
+new Counter(); //Anonymouse Objekt
+conuter = null; // Nulling reference
+counterC = counterD; //reference to another counter
+
